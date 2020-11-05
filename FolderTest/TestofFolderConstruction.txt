@@ -1,2 +1,2 @@
-Can maintain folder construction?
+Can Git maintain folder construction?
 Yes, I did.
